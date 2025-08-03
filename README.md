@@ -1,1 +1,4 @@
 A basic Amazon Clone built using HTML and CSS. This project is a simple front-end replica of Amazon's homepage and product listing page. It's an excellent practice for beginners to learn and implement basic web development
+## 🌐 Live Demo
+
+[🔗 View Live ](https://rajeshece1138.github.io/Amazonclone/)
